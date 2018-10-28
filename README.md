@@ -60,4 +60,8 @@ index.html
 
 
 #style.css
-  
+  /* navbar */
+.navbar-brand {
+    font-family: viga;
+    font-size: 32 px;
+}
