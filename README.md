@@ -65,3 +65,11 @@ index.html
     font-family: viga;
     font-size: 32 px;
 }
+/* jumbotron */
+.jumbotron{
+    background-image: url(img/jumbotron-bg.jpg);
+    background-size: cover;
+    height:640px;
+   
+    
+}
