@@ -94,3 +94,7 @@ index.html
     padding-button: 5px;
     margin-button: -8px;
 }
+.jumbotron{
+    margin-top: -75px;
+}
+}
