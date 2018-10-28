@@ -78,3 +78,10 @@ index.html
     text-tansfrom: uppercase;
     border-radius: 40px;
 }
+/* desktop version */
+@media (min-width: 992px) {
+    
+    .nav-link {
+        text-transform: uppercase;
+        margin-right: 30x;
+    }
