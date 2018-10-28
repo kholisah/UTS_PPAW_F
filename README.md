@@ -85,3 +85,12 @@ index.html
         text-transform: uppercase;
         margin-right: 30x;
     }
+.nav-link:hover::after{
+    content: '';
+    display: block;
+    border-botton: 3px solid #0B63DC;
+    width: 50%;
+    margin: auto;
+    padding-button: 5px;
+    margin-button: -8px;
+}
