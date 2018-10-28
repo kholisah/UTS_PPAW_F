@@ -73,3 +73,8 @@ index.html
    
     
 }
+/* utylity */
+.tombol {
+    text-tansfrom: uppercase;
+    border-radius: 40px;
+}
